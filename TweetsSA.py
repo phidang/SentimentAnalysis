@@ -3,7 +3,7 @@
 """
 Created on Sun Mar 19 23:09:24 2017
 
-@author: DangNguyen
+@author: DangNguyen & DuyTran
 """
 
 import re
